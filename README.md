@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=ff009f&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="itch logo"  />
   </a>
   <a href="https://www.canva.com/design/DAGjazwFnG4/QuflS3UpPv_pR8gi0g1IpA/view?utm_content=DAGjazwFnG4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdc8f50cdb0" target="_blank">
-    <img src="https://img.shields.io/badge/PortfolioArt-ff009f?logo=canvas" height="40" alt="portfolio logo"  />
+    <img src="https://img.shields.io/static/v1?message=PortfolioArt&logo=canvas&label=&color=ff009f&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="portfolio logo"  />
   </a>
 </div>
 
